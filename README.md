@@ -46,8 +46,8 @@ Each script follows the same general steps:
 ### For `BeautifulSoup` scripts:
 ```bash
 pip install requests beautifulsoup4 lxml
-
-## ⚙️ For `playwright` scripts:
+```
+### ⚙️ For `playwright` scripts:
 
 ```bash
 pip install playwright playwright-stealth
